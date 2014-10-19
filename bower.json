@@ -1,0 +1,13 @@
+{
+  "name": "coxswain",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "angular": "~1.2.24",
+    "angular-mocks": "~1.2.16",
+    "angular-sanitize": "~1.2.16",
+    "angular-route": "~1.2.16",
+    "restangular": "~1.4.0",
+    "underscore": "~1.6.0"
+  }
+}
